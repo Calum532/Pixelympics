@@ -27,7 +27,7 @@ We weighed all our options and considered the various life cycles and what one w
 
 The agile methodology is similar to the standard waterfall methodology as it follows the same sequence of stages – “Planning”, “Analysis”, “Design”, “Implementation”, “Testing” and “Maintenance”. However, this method aims to catch problems early by releasing multiple iterations of the same project rapidly with small incremental changes for testing, catching issues early in development before they become a bigger one further down the line. This ultimately allows us to make changes if we know something in the game won’t work before it’s too late.
 
-https://i.imgur.com/2ZxnPfR.png
+![Agile Methodology](https://i.imgur.com/2ZxnPfR.png)
 
 We feel the Agile life cycle will help us greatly in working together towards our shared goals, as when we come in to the labs we do generally work on individual tasks with gradual input from each other along the way. This could be described as the ‘sprints’ featured in the Agile life cycle and are done as such, one task seen through to completion and then another is moved on to, all while working down the priority list.
 
@@ -113,9 +113,7 @@ Non-Functional Requirements
 
 Assets Required
 
-| **Models/Graphics** | **Textures/Colours** | **Sounds/Music** |
-| --- | --- | --- |
-|
+**Models/Graphics** | **Textures/Colours** | **Sounds/Music**
 - Player character(s)
 - Game logo
 - User interface(s)
@@ -135,7 +133,6 @@ Assets Required
 - Minigame specific
 - Main menu
 - Pause menu
-   |
 
 Accessibility & Ease of Use
 
