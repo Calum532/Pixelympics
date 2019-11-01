@@ -114,6 +114,7 @@ Non-Functional Requirements
 Assets Required
 
 **Models/Graphics** | **Textures/Colours** | **Sounds/Music**
+------------ | ------------------------- | ------------------------- | -------------
 - Player character(s)
 - Game logo
 - User interface(s)
