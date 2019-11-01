@@ -1,13 +1,14 @@
-#
 <h1 align="center">
     <img src="https://i.imgur.com/lqq2G3d.png" alt="Pixelympics's logo"/>
-</h1>
+
 
 # Year 3 Computer Games Development - Web Games Development 1
 
-# Assessment 1
+## Assessment 1
 
-# By Calum Bain &amp; Lee Sturrock
+## By Calum Bain &amp; Lee Sturrock
+
+</h1>
 
 ## Game Design
 
