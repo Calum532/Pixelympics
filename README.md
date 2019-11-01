@@ -1,9 +1,6 @@
 #
 <h1 align="center">
-    <img src="https://i.imgur.com/lqq2G3d.png" alt="Pixelympics's logo" width="175"/>
-    <br>
-    Pixelympics
-    <br>
+    <img src="https://i.imgur.com/lqq2G3d.png" alt="Pixelympics's logo"/>
 </h1>
 
 # Year 3 Computer Games Development - Web Games Development 1
