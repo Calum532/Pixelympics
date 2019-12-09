@@ -65,7 +65,6 @@ function create() {
         'orange_ball' //key for the image of the ball
     );
 
-    //first row of line pieces
     trackline = this.physics.add.group({
         key: 'line',
         repeat: 9,
@@ -77,7 +76,6 @@ function create() {
         }
     });
 
-    //second row of line pieces
     trackline = this.physics.add.group({
         key: 'line',
         repeat: 9,
@@ -89,7 +87,6 @@ function create() {
         }
     });
 
-    //first row of line pieces
     trackline = this.physics.add.group({
         key: 'line',
         repeat: 9,
@@ -101,7 +98,6 @@ function create() {
         }
     });
 
-    //first row of line pieces
     trackline = this.physics.add.group({
         key: 'line',
         repeat: 9,
@@ -113,7 +109,6 @@ function create() {
         }
     });
 
-    //first row of line pieces
     trackline = this.physics.add.group({
         key: 'line',
         repeat: 9,
@@ -125,7 +120,6 @@ function create() {
         }
     });
 
-    //first row of line pieces
     trackline = this.physics.add.group({
         key: 'line',
         repeat: 9,
